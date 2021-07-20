@@ -1,4 +1,3 @@
-cdqa
 joblib
 requests
 streamlit
