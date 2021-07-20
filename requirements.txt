@@ -1,0 +1,6 @@
+cdqa
+joblib
+requests
+streamlit
+scikit-learn
+
